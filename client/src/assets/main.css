@@ -1,0 +1,20 @@
+/* ACTIVITY SOLUTION START */
+#banner-title {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+  font-size: 54px;
+}
+
+#motto {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 1.7rem;
+}
+
+#banner {
+  background: url(https://i.imgur.com/frHbYvL.png),
+    linear-gradient(to right, rgb(255, 255, 255), 70%, rgba(126, 209, 247, 0.5));
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+}
+/* ACTIVITY SOLUTION END */
