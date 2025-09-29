@@ -1,9 +1,16 @@
+### ZUITT Course Booking App
 https://course-booking-app-steel.vercel.app/
+
 ---
+env
+---
+
 front-end: 
 
 VITE_COURSE_BOOKING_API=https://course-booking-app.onrender.com
+
 ---
+
 baackend:
 
 MONGODB_STRING="your-mongodb-connection-string"
